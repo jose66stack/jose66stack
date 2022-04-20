@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jose66stack
-- 👀 I’m interested in sports
-- 🌱 I’m currently learning programing and design
-- 📫 How to reach me via email
+follow @hydrocity544 on twitter fr fr
 
 <!---
 jose66stack/jose66stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
